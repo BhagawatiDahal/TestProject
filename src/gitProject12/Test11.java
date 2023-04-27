@@ -11,6 +11,7 @@ public class Test11 {
 	
 		for(int i=0; i<=names.length-1; i++) {
 			System.out.println(names[i]);
+			System.out.println("Hello all");
 		}
 		
 		
