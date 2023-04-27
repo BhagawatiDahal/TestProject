@@ -107,6 +107,7 @@ public class Test {
 				for (int k = 0; k < rm.length; k++) {
 
 					System.out.println(rm[k]);
+					System.out.println("Hello");
 
 				}
 
@@ -116,13 +117,6 @@ public class Test {
 
 	}
 
-
-
-		
-		
-		
-		
-		
 	}
 
 
